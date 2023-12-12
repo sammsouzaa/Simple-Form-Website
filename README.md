@@ -12,8 +12,10 @@ To view the website, simply [click here](https://sammsouzaa.github.io/Simple-For
 ## Code Overview
 The project uses HTML for structuring the form, CSS for styling, and Bootstrap for additional design components. The code ensures a clean and user-friendly experience for form submission.
 
+<!--
 ## Screenshots
-Include screenshots of the form website, showcasing its simplicity and design.
+Include screenshots of the app interface, demonstrating the gameplay and user interactions.
+-->
 
 ## Credits
 - Author: [Your Name]
